@@ -1,5 +1,5 @@
-streamlit>=1.37
-statsapi>=0.5.0
-pandas>=2.0
-plotly>=5.20
-numpy>=1.26
+streamlit==1.37.0
+statsapi==0.5.1
+pandas==2.2.2
+plotly==5.24.1
+numpy==1.26.4
